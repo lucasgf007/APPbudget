@@ -1,0 +1,6 @@
+/* AJUSTE MOBILE */
+@media(max-width: 768px){
+    .ajuste_mobile{
+        padding-bottom: 20px;
+    }
+}
